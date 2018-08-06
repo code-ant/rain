@@ -15,4 +15,4 @@ Demo文件夹下的为演示程序和资源文件
 
 ![pic](https://github.com/JesonWang09/rain/blob/master/pic/2018-08-06_17-13-55.png)   
 
-![pic](https://github.com/JesonWang09/rain/blob/master/pic/2018-08-06_17-13-55.png)
+![pic](https://github.com/JesonWang09/rain/blob/master/pic/2018-08-06_17-13-33.png)
